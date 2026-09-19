@@ -125,6 +125,24 @@ My work has mainly been around the **SAR data-processing side** — taking Senti
 
 ---
 
+## 💻 Collaboard
+
+### `CREW COLLABORATION ARC`
+
+Worked as the **Backend Engineer** on Collaboard, contributing to the server-side development of the project.
+
+This experience helped me strengthen my backend development skills and understand how different parts of an application work together.
+
+**Role:** Backend Engineer
+
+<p align="center">
+  <a href="https://github.com/codeCrusaders-png/Collaboard">
+    <img src="https://img.shields.io/badge/EXPLORE-COLLABOARD-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Collaboard Repository" />
+  </a>
+</p>
+
+---
+
 # 🍖 DEVIL FRUIT I'M EATING
 
 Not actual Devil Fruits.
