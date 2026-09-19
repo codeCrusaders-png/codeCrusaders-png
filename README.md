@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>"> "As long as I'm breathing, there are infinite chances."</i><br>
+  <i>"As long as I'm breathing, there are infinite chances."</i><br>
   — Monkey D. Luffy
 </p>
 
