@@ -55,7 +55,8 @@ I enjoy transforming complex problems into practical engineering solutions — f
 ### 🛠️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,ESA SNAP,anaconda" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+  <img src="https://img.shields.io/badge/ESA%20SNAP-SAR%20Processing-4B0082?style=for-the-badge" />
 </p>
 
 ---
