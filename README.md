@@ -1,6 +1,13 @@
 # 🏴‍☠️ Anuj Biswas
 
-### CSE Student | AI/ML Explorer | Geospatial AI
+<p align="center">
+  <img src="https://img.shields.io/badge/🏴‍☠️-GRAND%20LINE-001D3D?style=for-the-badge&labelColor=000814" />
+</p>
+
+<p align="center">
+  <i>"If you don’t take risks, you can’t create a future!"</i><br>
+  — Monkey D. Luffy
+</p>
 
 <p align="center">
   <img
