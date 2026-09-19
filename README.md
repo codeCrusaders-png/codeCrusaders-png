@@ -1,4 +1,3 @@
-# 🏴‍☠️ Anuj Biswas
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏴‍☠️-GRAND%20LINE-001D3D?style=for-the-badge&labelColor=000814" />
