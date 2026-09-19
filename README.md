@@ -28,19 +28,20 @@
 
 ## ☠️ The Journey Begins
 
-Hey, I'm **Anuj**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Brainware University.
+Hey, I'm **Anuj Biswas**, a B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Brainware University.
 
-I'm curious about how AI works and how it can be used to solve real problems. I enjoy learning by building things, experimenting with tools, and figuring things out along the way.
+I'm passionate about exploring AI, understanding how systems work, and building technology that solves real-world problems.
 
-Lately, I've been exploring satellite imagery and geospatial data, which has taken my learning beyond traditional software development.
+Currently navigating the Grand Line of Machine Learning, Computer Vision, and Geospatial AI — learning through hands-on projects, experimentation, and collaboration.
 
-* 🤖 Exploring Machine Learning, Deep Learning, and Computer Vision
-* 🛰️ Working with SAR satellite imagery and geospatial data
-* 🐍 Building with Python and scientific computing tools
-* 🌍 Interested in AI applications for real-world problems
-* 🚀 Learning through projects, collaboration, and experimentation
+- 🤖 Exploring Machine Learning, Deep Learning, and Computer Vision
+- 🛰️ Working with Sentinel-1 SAR satellite imagery
+- 🐍 Building with Python and scientific computing tools
+- 🌍 Exploring AI applications in geospatial data and maritime monitoring
+- 💻 Developing programming and backend engineering skills
+- 🚀 Learning by building, breaking, debugging, and improving
 
-> Still learning, still building, always curious.
+> Still learning. Still building. Always curious.
 
 ---
 
@@ -48,7 +49,7 @@ Lately, I've been exploring satellite imagery and geospatial data, which has tak
 
 Things I'm currently exploring:
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `Geospatial AI` · `SAR Imagery` · `Data Analysis`
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Geospatial AI` · `SAR Imagery` · `Data Analysis` · `Cloud Computing`
 
 ---
 
@@ -66,17 +67,19 @@ Things I'm currently exploring:
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and Scikit-learn" />
 </p>
 
-`NumPy` · `Pandas` · `Matplotlib` · `Computer Vision`
+`NumPy` · `Pandas` · `Matplotlib` · `Computer Vision` · `Image Segmentation`
 
 ### 🌊 Geospatial Technologies
 
-`Sentinel-1` · `ESA SNAP` · `Rasterio` · `GeoTIFF` · `GeoJSON`
+`Sentinel-1` · `ESA SNAP` · `Rasterio` · `GeoTIFF` · `GeoJSON` · `PostGIS`
 
 ### ⚒️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" alt="Git, GitHub, VS Code, Anaconda" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" alt="Git, GitHub, VS Code, Anaconda, Linux" />
 </p>
+
+`Jupyter Notebook` · `Python` · `Git`
 
 ---
 
@@ -88,15 +91,17 @@ Things I'm currently exploring:
 
 SAGAR is a collaborative project focused on maritime monitoring using satellite imagery, AI-based analysis, and geospatial processing.
 
-My work has mainly focused on the **SAR data-processing side**, preparing Sentinel-1 imagery for further analysis.
+My primary contribution focuses on the **Sentinel-1 SAR data-processing pipeline**, preparing satellite imagery for downstream AI analysis.
 
 ### What I've worked on
 
-* Sentinel-1 GRD data ingestion and preprocessing
-* SAR calibration, speckle filtering, and terrain correction
-* VH / VV polarization processing and normalization
-* Creating GeoTIFF composites and 416 × 416 image tiles
-* Preparing geospatial outputs, including GeoJSON
+- Sentinel-1 GRD data ingestion and preprocessing
+- SAR calibration, speckle filtering, and terrain correction
+- VH / VV polarization processing and normalization
+- Creating 3-band GeoTIFF composites
+- Generating 416 × 416 image tiles for model processing
+- Preparing geospatial outputs, including GeoJSON
+- Working with a collaborative GitHub workflow and pull requests
 
 **Technologies:** `Python` · `Sentinel-1` · `ESA SNAP` · `Rasterio` · `GeoTIFF` · `GeoJSON` · `YOLOv8-Seg` · `PostGIS`
 
@@ -115,9 +120,9 @@ My work has mainly focused on the **SAR data-processing side**, preparing Sentin
 
 ### `CREW COLLABORATION ARC`
 
-I worked as the **Backend Engineer** on Collaboard, contributing to the server-side development of the project.
+Contributed to **Collaboard** as a Backend Engineer, working on the server-side development of the project.
 
-Working on the backend gave me practical experience with application logic and how server-side components support the overall application.
+This experience helped me explore backend development, application logic, and collaborative software engineering.
 
 **Role:** Backend Engineer
 
@@ -131,14 +136,16 @@ Working on the backend gave me practical experience with application logic and h
 
 ## 🍖 My Training Arc — Currently Learning
 
-I'm working on strengthening my foundations and getting more comfortable building practical AI/ML projects.
+I'm strengthening my foundations and building practical skills to prepare for AI/ML internships and real-world development.
 
-* Machine Learning fundamentals
-* Deep Learning with TensorFlow
-* Computer Vision and Image Segmentation
-* Data Analysis with Pandas and Matplotlib
-* SQL, DBMS, and Geospatial Databases
-* Data Structures and Algorithms
+- 📘 Machine Learning fundamentals
+- 🧠 Deep Learning with TensorFlow
+- 👁️ Computer Vision and Image Segmentation
+- 📊 Data Analysis with NumPy, Pandas, and Matplotlib
+- 🗄️ SQL, DBMS, and Geospatial Databases
+- ☁️ Cloud Computing
+- 🐧 Linux and Systems Programming
+- ⚙️ Data Structures and Algorithms
 
 ---
 
@@ -150,19 +157,21 @@ Data Analysis              → NumPy, Pandas, Matplotlib
 Machine Learning           → Building foundations
 Deep Learning              → Exploring TensorFlow
 Computer Vision            → Learning image-based AI
-Geospatial AI              → Working with satellite data
-Backend Development        → Project experience
+Geospatial AI              → Processing satellite imagery
+SAR Processing             → Hands-on Sentinel-1 pipeline
+Backend Development        → Collaborative project experience
+Cloud Computing            → Exploring cloud technologies
 ```
 
 ---
 
 ## 🎯 My Dream
 
-Every journey needs a destination.
+Every pirate needs a dream. Mine is to become a skilled AI/ML engineer who can turn ideas into practical systems that solve meaningful problems.
 
-Mine is to build a strong foundation in AI/ML and become someone who can turn ideas into working systems that solve meaningful problems.
+I want to keep exploring new technologies, collaborating with talented people, and building projects that challenge me to grow.
 
-I want to keep learning, collaborating, experimenting, and building projects that challenge me.
+My goal is to develop strong technical foundations, gain industry experience, and contribute to impactful technology.
 
 **Build. Explore. Learn. Repeat.**
 
@@ -177,5 +186,13 @@ I want to keep learning, collaborating, experimenting, and building projects tha
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:001F3F&height=120&section=footer" width="100%" />
+  <i>"The journey is the treasure."</i> ☠️
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:001F3F&height=120&section=footer"
+    width="100%"
+    alt="Grand Line footer"
+  />
 </p>
