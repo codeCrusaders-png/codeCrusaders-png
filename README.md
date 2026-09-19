@@ -1,126 +1,102 @@
 # 🏴‍☠️ Anuj Biswas
 
-> **"The sea is wide. So is the journey of learning."**
-
----
+### CSE Student | AI/ML Explorer | Geospatial AI
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00B4D8&height=220&section=header&text=ANUJ%20BISWAS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SAILING%20THROUGH%20THE%20GRAND%20LINE%20OF%20AI&descAlignY=60&descSize=15" width="100%" />
 </p>
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/ROLE-AI%2FML%20EXPLORER-D62828?style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/DOMAIN-GEOSPATIAL%20AI-0077B6?style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-2A9D8F?style=for-the-badge" />
-
+  <a href="https://github.com/codeCrusaders-png">
+    <img src="https://img.shields.io/badge/GitHub-codeCrusaders--png-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/ROLE-AI%2FML%20EXPLORER-D62828?style=for-the-badge" alt="AI/ML Explorer" />
+  <img src="https://img.shields.io/badge/DOMAIN-GEOSPATIAL%20AI-0077B6?style=for-the-badge" alt="Geospatial AI" />
 </p>
 
 ---
 
-# ☠️ THE JOURNEY BEGINS
+## ☠️ The Journey Begins
 
-Hey, I'm **Anuj**.
+Hey, I'm **Anuj**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Brainware University.
 
-I'm a Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Brainware University.
+I'm curious about how AI works and how it can be used to solve real problems. I enjoy learning by building things, experimenting with tools, and figuring things out along the way.
 
-Instead of trying to learn everything at once, I'm treating AI/ML like a long voyage:
+Lately, I've been exploring satellite imagery and geospatial data, which has taken my learning beyond traditional software development.
 
-**Learn → Build → Break → Fix → Repeat**
+* 🤖 Exploring Machine Learning, Deep Learning, and Computer Vision
+* 🛰️ Working with SAR satellite imagery and geospatial data
+* 🐍 Building with Python and scientific computing tools
+* 🌍 Interested in AI applications for real-world problems
+* 🚀 Learning through projects, collaboration, and experimentation
 
-Right now, my journey is taking me through Machine Learning, Deep Learning, Computer Vision, satellite imagery, and geospatial systems.
-
-I'm especially interested in how AI can be used outside normal software applications to solve problems in the real world.
-
----
-
-# 🧭 MY LOG POSE
-
-Currently exploring:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Geospatial AI
-- SAR Satellite Imagery
-- Data Analysis
-- Image Segmentation
-- Geospatial Databases
+> Still learning, still building, always curious.
 
 ---
 
-# 👒 MY CREW
+## 🧭 My Log Pose
 
-Every pirate needs a crew.
+Things I'm currently exploring:
 
-Mine is made of tools.
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Geospatial AI` · `SAR Imagery` · `Data Analysis`
 
-### 💻 Programming
+---
+
+## 👒 My Crew — Tools & Technologies
+
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css" alt="Python, C, HTML, CSS" />
 </p>
 
-### 🤖 AI / MACHINE LEARNING
+### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and Scikit-learn" />
 </p>
 
 `NumPy` · `Pandas` · `Matplotlib` · `Computer Vision`
 
-### 🌊 GEOSPATIAL & SATELLITE
+### 🌊 Geospatial Technologies
 
 `Sentinel-1` · `ESA SNAP` · `Rasterio` · `GeoTIFF` · `GeoJSON`
 
-### ⚒️ DEVELOPMENT
+### ⚒️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" alt="Git, GitHub, VS Code, Anaconda" />
 </p>
 
 ---
 
-# 🗺️ CURRENT ARC
+# 🗺️ Current Arcs — Featured Projects
 
 ## 🛰️ SAGAR — AI-Powered Maritime Monitoring
 
 ### `MARITIME MONITORING ARC`
 
-SAGAR is a collaborative project focused on maritime monitoring using **satellite imagery, AI, and geospatial processing**.
+SAGAR is a collaborative project focused on maritime monitoring using satellite imagery, AI-based analysis, and geospatial processing.
 
-My work has mainly been around the **SAR data-processing side** — taking Sentinel-1 imagery and preparing it for downstream analysis.
+My work has mainly focused on the **SAR data-processing side**, preparing Sentinel-1 imagery for further analysis.
 
-### What I've been working with
+### What I've worked on
 
-- Sentinel-1 GRD data
-- SAR preprocessing
-- Radiometric calibration
-- Speckle filtering
-- Terrain correction
-- VH / VV polarization
-- Image normalization
-- GeoTIFF processing
-- 416 × 416 image tiling
-- GeoJSON preparation
+* Sentinel-1 GRD data ingestion and preprocessing
+* SAR calibration, speckle filtering, and terrain correction
+* VH / VV polarization processing and normalization
+* Creating GeoTIFF composites and 416 × 416 image tiles
+* Preparing geospatial outputs, including GeoJSON
 
-### Tech used
-
-`Python` · `Sentinel-1` · `ESA SNAP` · `Rasterio`  
-`GeoTIFF` · `GeoJSON` · `YOLOv8-Seg` · `PostGIS`
+**Technologies:** `Python` · `Sentinel-1` · `ESA SNAP` · `Rasterio` · `GeoTIFF` · `GeoJSON` · `YOLOv8-Seg` · `PostGIS`
 
 <p align="center">
-
   <a href="https://github.com/Lolit-Bairiganjan/sagar">
-    <img src="https://img.shields.io/badge/READ%20THE%20LOG-SAGAR%20REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/READ%20THE%20LOG-SAGAR%20REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="SAGAR Repository" />
   </a>
-
   <a href="https://sagar-one.vercel.app/">
-    <img src="https://img.shields.io/badge/SET%20SAIL-LIVE%20WEBSITE-0077B6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/SET%20SAIL-LIVE%20WEBSITE-0077B6?style=for-the-badge&logo=vercel&logoColor=white" alt="SAGAR Live Website" />
   </a>
-
 </p>
 
 ---
@@ -129,9 +105,9 @@ My work has mainly been around the **SAR data-processing side** — taking Senti
 
 ### `CREW COLLABORATION ARC`
 
-Worked as the **Backend Engineer** on Collaboard, contributing to the server-side development of the project.
+I worked as the **Backend Engineer** on Collaboard, contributing to the server-side development of the project.
 
-This experience helped me strengthen my backend development skills and understand how different parts of an application work together.
+Working on the backend gave me practical experience with application logic and how server-side components support the overall application.
 
 **Role:** Backend Engineer
 
@@ -143,25 +119,57 @@ This experience helped me strengthen my backend development skills and understan
 
 ---
 
-# 🍖 DEVIL FRUIT I'M EATING
+## 🍖 My Training Arc — Currently Learning
 
-Not actual Devil Fruits.
+I'm working on strengthening my foundations and getting more comfortable building practical AI/ML projects.
 
-My current power-ups:
+* Machine Learning fundamentals
+* Deep Learning with TensorFlow
+* Computer Vision and Image Segmentation
+* Data Analysis with Pandas and Matplotlib
+* SQL, DBMS, and Geospatial Databases
+* Data Structures and Algorithms
+
+---
+
+## 🧪 Power-Up Progress
 
 ```text
-Python
-   ↓
-NumPy
-   ↓
-Pandas
-   ↓
-Matplotlib
-   ↓
-Scikit-learn
-   ↓
-TensorFlow
-   ↓
-Computer Vision
-   ↓
-Geospatial AI
+Python & Programming       → Learning and practicing
+Data Analysis              → NumPy, Pandas, Matplotlib
+Machine Learning           → Building foundations
+Deep Learning              → Exploring TensorFlow
+Computer Vision            → Learning image-based AI
+Geospatial AI              → Working with satellite data
+Backend Development        → Project experience
+```
+
+---
+
+## 🎯 My Dream
+
+Every journey needs a destination.
+
+Mine is to build a strong foundation in AI/ML and become someone who can turn ideas into working systems that solve meaningful problems.
+
+I want to keep learning, collaborating, experimenting, and building projects that challenge me.
+
+**Learn. Build. Explore. Repeat.**
+
+---
+
+## ⚓ Find My Ship
+
+<p align="center">
+  <a href="https://github.com/codeCrusaders-png">
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github" alt="Explore my GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Curious mind. Practical builder. Always evolving.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:001F3F&height=120&section=footer" width="100%" />
+</p>
