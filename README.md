@@ -1,6 +1,6 @@
 # 👨‍💻 Anuj Biswas
 
-### AI/ML Engineer in Progress | CSE Student | Geospatial AI
+### CSE Student | Exploring AI/ML | Geospatial AI
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Building%20Intelligence&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Innovation&descAlignY=58&descSize=16" width="100%" />
@@ -11,30 +11,32 @@
     <img src="https://img.shields.io/badge/GitHub-codeCrusaders--png-181717?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-Geospatial%20AI-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Geospatial%20AI-00A86B?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 A Little About Me
 
-I'm a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning** at Brainware University.
+Hey! I'm Anuj, a Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Brainware University.
 
-I enjoy transforming complex problems into practical engineering solutions — from satellite imagery processing to intelligent systems.
+I'm curious about how AI works and how it can be used to solve real problems. I enjoy learning by building things, experimenting with tools, and figuring things out along the way.
 
-* 🤖 Exploring Machine Learning, Deep Learning & Computer Vision
-* 🛰️ Working with SAR satellite imagery and geospatial data
-* 🐍 Building with Python and scientific computing tools
-* 🌍 Interested in AI applications for real-world problems
-* 🚀 Developing projects and strengthening engineering fundamentals
+Lately, I've been exploring satellite imagery and geospatial data, which has given me a chance to work on problems beyond traditional software development.
 
-> Learn deeply. Build consistently. Improve continuously.
+* 🤖 Learning more about Machine Learning, Deep Learning, and Computer Vision
+* 🛰️ Exploring SAR satellite imagery and geospatial data
+* 🐍 Working with Python and its data science libraries
+* 🌍 Interested in using AI to tackle real-world challenges
+* 🚀 Building projects, learning from mistakes, and improving one step at a time
+
+> Still learning, still building, always curious.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tools & Technologies
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,html,css" />
@@ -48,9 +50,9 @@ I enjoy transforming complex problems into practical engineering solutions — f
 
 `NumPy` · `Pandas` · `Matplotlib` · `Computer Vision`
 
-### 🌍 Geospatial Technologies
+### 🌍 Geospatial
 
-`ESA SNAP` · `Rasterio` · `GeoTIFF`
+`ESA SNAP` · `Rasterio` · `GeoTIFF` · `GeoJSON`
 
 ### 🛠️ Development Tools
 
@@ -61,21 +63,23 @@ I enjoy transforming complex problems into practical engineering solutions — f
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects I'm Working On
 
 ### 🛰️ SAGAR — AI-Powered Maritime Monitoring
 
-Contributing to an intelligent maritime monitoring system combining satellite imagery, AI-based analysis, and geospatial processing.
+SAGAR is a collaborative project focused on maritime monitoring using satellite imagery, AI-based analysis, and geospatial data.
 
-**My contribution — SAR Data Processing**
+I've been working on the **SAR data-processing side** of the project, learning how to prepare Sentinel-1 imagery for further analysis.
+
+**What I've worked on:**
 
 * Sentinel-1 GRD data ingestion and preprocessing
 * SAR calibration, speckle filtering, and terrain correction
-* VH / VV polarization processing and normalization
-* GeoTIFF composition and 416 × 416 image tiling
-* Geospatial output preparation, including GeoJSON
+* Processing and normalizing VH / VV polarization data
+* Creating GeoTIFF composites and 416 × 416 image tiles
+* Preparing geospatial outputs, including GeoJSON
 
-**Technologies:** Python · Sentinel-1 · ESA SNAP · Rasterio · GeoTIFF · GeoJSON · YOLOv8-Seg · PostGIS
+**Tools used:** Python · Sentinel-1 · ESA SNAP · Rasterio · GeoTIFF · GeoJSON · YOLOv8-Seg · PostGIS
 
 <p align="center">
   <a href="https://github.com/Lolit-Bairiganjan/sagar">
@@ -88,7 +92,9 @@ Contributing to an intelligent maritime monitoring system combining satellite im
 
 ---
 
-## 📚 Currently Learning
+## 📚 What I'm Learning
+
+Currently spending time strengthening my foundations in:
 
 * Machine Learning fundamentals
 * Deep Learning with TensorFlow
@@ -99,28 +105,17 @@ Contributing to an intelligent maritime monitoring system combining satellite im
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 What I'm Working Toward
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codeCrusaders-png&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeCrusaders-png&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I want to build a solid foundation in AI/ML and become comfortable turning ideas into working projects.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codeCrusaders-png&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+For me, progress means learning the fundamentals, trying things out, working with others, and getting a little better with every project.
+
+**One step at a time. One project at a time.**
 
 ---
 
-## 🎯 My Mission
-
-Build strong AI/ML foundations through practical projects, collaborative development, and continuous learning.
-
-My goal: **Build intelligent systems that solve meaningful problems.**
-
----
-
-## 🤝 Let's Connect
+## 🤝 Find Me Online
 
 <p align="center">
   <a href="https://github.com/codeCrusaders-png">
@@ -129,7 +124,7 @@ My goal: **Build intelligent systems that solve meaningful problems.**
 </p>
 
 <p align="center">
-  <i>Curious mind. Practical builder. Always evolving.</i>
+  <i>Curious by nature. Learning by building.</i>
 </p>
 
 <p align="center">
