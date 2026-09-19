@@ -77,9 +77,12 @@ Contributing to an intelligent maritime monitoring system combining satellite im
 
 **Technologies:** Python · Sentinel-1 · ESA SNAP · Rasterio · GeoTIFF · GeoJSON · YOLOv8-Seg · PostGIS
 
-<p>
+<p align="center">
   <a href="https://github.com/Lolit-Bairiganjan/sagar">
-    <img src="https://img.shields.io/badge/Explore-SAGAR%20Repository-203A43?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Explore-SAGAR%20Repository-203A43?style=for-the-badge&logo=github" alt="SAGAR Repository" />
+  </a>
+  <a href="https://sagar-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit-Live%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="SAGAR Live Website" />
   </a>
 </p>
 
