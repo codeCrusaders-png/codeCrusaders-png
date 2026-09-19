@@ -154,7 +154,7 @@ Mine is to build a strong foundation in AI/ML and become someone who can turn id
 
 I want to keep learning, collaborating, experimenting, and building projects that challenge me.
 
-**Learn. Build. Explore. Repeat.**
+**Build. Explore. Learn. Repeat.**
 
 ---
 
@@ -167,7 +167,7 @@ I want to keep learning, collaborating, experimenting, and building projects tha
 </p>
 
 <p align="center">
-  <i>Curious mind. Practical builder. Always evolving.</i>
+  <i>If you don’t take risks, you can’t create a future!.</i>
 </p>
 
 <p align="center">
