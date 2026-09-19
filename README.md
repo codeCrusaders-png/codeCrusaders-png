@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>"If you don’t take risks, you can’t create a future!"</i><br>
+  <i>"> "As long as I'm breathing, there are infinite chances."</i><br>
   — Monkey D. Luffy
 </p>
 
@@ -175,10 +175,6 @@ I want to keep learning, collaborating, experimenting, and building projects tha
   <a href="https://github.com/codeCrusaders-png">
     <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github" alt="Explore my GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <i>If you don’t take risks, you can’t create a future!.</i>
 </p>
 
 <p align="center">
