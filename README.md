@@ -37,7 +37,7 @@ I enjoy transforming complex problems into practical engineering solutions — f
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -46,16 +46,16 @@ I enjoy transforming complex problems into practical engineering solutions — f
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
-`NumPy` · `Pandas` · `Matplotlib` · `Computer Vision` · `Image Segmentation`
+`NumPy` · `Pandas` · `Matplotlib` · `Computer Vision`
 
 ### 🌍 Geospatial Technologies
 
-`ESA SNAP` · `Rasterio` · `GeoTIFF` · `GeoJSON` · `PostgreSQL` · `PostGIS`
+`ESA SNAP` · `Rasterio` · `GeoTIFF`
 
 ### 🛠️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ESA SNAP,anaconda" />
 </p>
 
 ---
