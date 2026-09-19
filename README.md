@@ -3,7 +3,11 @@
 ### CSE Student | AI/ML Explorer | Geospatial AI
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00B4D8&height=220&section=header&text=ANUJ%20BISWAS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SAILING%20THROUGH%20THE%20GRAND%20LINE%20OF%20AI&descAlignY=60&descSize=15" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,30:001D3D,65:003566,100:FFC300&height=240&section=header&text=ANUJ%20BISWAS&fontSize=48&fontColor=FFD60A&animation=fadeIn&fontAlignY=38&desc=SAILING%20THE%20GRAND%20LINE%20OF%20AI&descAlignY=60&descSize=16"
+    width="100%"
+    alt="Anuj Biswas — Sailing the Grand Line of AI"
+  />
 </p>
 
 <p align="center">
