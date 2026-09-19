@@ -61,6 +61,6 @@
 
 ---
 
-> *"Consistency today, results tomorrow."* 🚀
+> *"As long as I'm breathing, there are infinite chances."* 🚀
 >
 > Let's build something impactful.
