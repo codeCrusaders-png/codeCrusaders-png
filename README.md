@@ -8,89 +8,16 @@
 {
   "name": "Anuj Biswas",
   "education": "B.Tech CSE (AI & ML) @ Brainware University",
-  "current_focus": [
-    "Machine Learning",
-    "Deep Learning",
-    "Natural Language Processing",
-    "Computer Vision",
-    "Backend Development",
-    "Cloud Computing"
-  ],
-  "interests": [
-    "Artificial Intelligence & Machine Learning",
-    "Data Science",
-    "Geospatial AI & Remote Sensing (SAR)",
-    "Backend Development",
-    "NLP",
-    "AI-Powered Automation",
-    "Recommendation Systems",
-    "Open Source"
-  ],
-  "experience": [
+  "focus": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Backend Development", "Cloud Computing"],
+  "interests": ["AI/ML", "Data Science", "Geospatial AI", "NLP", "AI Automation", "Recommendation Systems", "Open Source"],
+  "projects": [
     "SAGAR - AI-Powered Maritime Monitoring",
-    "Sentinel-1 SAR Data Processing",
-    "Collaboard - Backend Engineering",
-    "Tubify - YouTube-to-Spotify Personal Music Organizer"
+    "Tubify - AI-Powered Music Organizer",
+    "HisabMate - Smart Group Expense Management",
+    "Collaboard - Backend Engineering"
   ],
-  "projects": {
-    "SAGAR": [
-      "Sentinel-1 SAR GRD ingestion",
-      "SAR preprocessing",
-      "Radiometric calibration",
-      "Speckle filtering",
-      "Terrain correction",
-      "GeoTIFF processing",
-      "Raster normalization",
-      "GeoJSON/vectorization",
-      "416×416 image tiling",
-      "AI-powered maritime monitoring pipeline"
-    ],
-    "Tubify": [
-      "YouTube-to-Spotify song matching",
-      "Spotify OAuth 2.0 integration",
-      "Spotify playlist automation",
-      "Natural-language mood input",
-      "Mood intent classification",
-      "TF-IDF + Logistic Regression",
-      "Personalized playlist recommendation",
-      "User preference learning",
-      "FastAPI backend",
-      "SQLite/SQLAlchemy persistence"
-    ]
-  },
-  "tools": [
-    "Python",
-    "NumPy",
-    "Pandas",
-    "Matplotlib",
-    "Scikit-learn",
-    "TensorFlow",
-    "FastAPI",
-    "REST APIs",
-    "OAuth 2.0",
-    "SQL",
-    "SQLite",
-    "SQLAlchemy",
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "ESA SNAP",
-    "Rasterio",
-    "Git & GitHub",
-    "VS Code"
-  ],
-  "technical_strengths": [
-    "AI/ML pipeline development",
-    "Data preprocessing",
-    "API integration",
-    "Backend engineering",
-    "Geospatial data processing",
-    "Remote sensing",
-    "NLP fundamentals",
-    "Classical machine learning",
-    "AI-powered automation",
-    "Project-based learning"
-  ],
+  "tools": ["Python", "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "FastAPI", "SQL", "REST APIs", "OAuth 2.0", "Rasterio", "ESA SNAP", "Git & GitHub"],
+  "strengths": ["AI/ML Pipelines", "Data Preprocessing", "Backend Engineering", "Geospatial AI", "NLP", "API Integration", "AI Automation"],
   "philosophy": "Keep learning, keep building, keep improving.",
   "goal": "Build impactful AI solutions and become an industry-ready AI/ML engineer."
 }
